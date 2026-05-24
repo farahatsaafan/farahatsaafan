@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Farahat Saafan 👋
 
-<!--
-**farahatsaafan/farahatsaafan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS & AI Student @ New Mansoura University  
+💡 Passionate about Machine Learning & Software Development  
+📍 Mansoura, Egypt  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🚗 [Fuel Consumption Prediction](https://github.com/farahatsaafan/fuel-consumption-prediction)
+- 🧩 [AI Puzzle Solver](https://github.com/farahatsaafan/ai-puzzle-solver)
+- 🏦 [Bank System Database](https://github.com/farahatsaafan/bank-system-database)
+- ✅ [To-Do List App](https://github.com/farahatsaafan/todo-app)
