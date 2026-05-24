@@ -1,4 +1,4 @@
-# Hi, I'm Farahat Saafan 👋
+# Hi, I'm Farahat Safaan 👋
 
 🎓 CS & AI Student @ New Mansoura University  
 💡 Passionate about Machine Learning & Software Development  
